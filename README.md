@@ -70,6 +70,6 @@ This project focuses on analyzing pitching data for the Tampa Bay Rays in a base
 
 ### Conclusion:
 
-This portfolio project showcases an in-depth analysis of pitching data, providing valuable insights into pitch tendencies, performance metrics, and strategic considerations for the Tampa Bay Rays. The combination of SQL queries demonstrates a comprehensive approach to baseball pitching analytics.
+This project showcases an in-depth analysis of pitching data, providing valuable insights into pitch tendencies, performance metrics, and strategic considerations for the Tampa Bay Rays. The combination of SQL queries demonstrates a comprehensive approach to baseball pitching analytics.
 
 --- 
